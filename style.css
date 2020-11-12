@@ -1,0 +1,40 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+   
+}
+
+.navbar {
+    font-size: 2em;
+    margin: 0 0 1em 0; 
+    padding: .5em; 
+}
+
+form {
+    padding: 0 5em;
+}
+
+
+.content {
+    padding: 0em 3em;
+}
+
+.btn-primary { 
+    background-color: gray
+}
+
+.center{ 
+    display: block; 
+    margin: 3em auto; 
+
+}
+
+.nav-item {
+    font-size: .5em;
+}
+
+#logo {
+    height: 3em;
+    float: left;
+    margin: .75em 1.5em;
+}
+
